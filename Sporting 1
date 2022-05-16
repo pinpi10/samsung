@@ -1,0 +1,191 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@pinpi10
+pinpi10 /
+Sporting
+Private
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+
+    Settings
+
+Sporting/Sporting
+@pinpi10
+pinpi10 Create Sporting
+Latest commit bbeb7d6 6 hours ago
+History
+1 contributor
+163 lines (163 sloc) 5.74 KB
+#EXTM3U
+#EXTINF:-1,LA1 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16288
+#EXTINF:-1,LA1 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8782
+#EXTINF:-1,LA1 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7215
+#EXTINF:-1,LA2 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8781
+#EXTINF:-1,LA2 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7214
+#EXTINF:-1,Antena 3 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7228
+#EXTINF:-1,Cuatro HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8777
+#EXTINF:-1,Telecinco FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/14022
+#EXTINF:-1,Telecinco HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/11488
+#EXTINF:-1,LA Sexta FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16260
+#EXTINF:-1,LA Sexta HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7213
+#EXTINF:-1,LA Sexta ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/6671
+#EXTINF:-1,Neox TV FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7186
+#EXTINF:-1,Neox TV HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16264
+#EXTINF:-1,Fox FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16267
+#EXTINF:-1,FDF ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7221
+#EXTINF:-1,Comedy Central HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7230
+#EXTINF:-1,TNT FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7177
+#EXTINF:-1,Movistar #0 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13539
+#EXTINF:-1,Movistar #0 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16283
+#EXTINF:-1,AXN HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7252
+#EXTINF:-1,AXN White HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13542
+#EXTINF:-1,AMC FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7255
+#EXTINF:-1,SyFy FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13522
+#EXTINF:-1,Calle 13 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7247
+#EXTINF:-1,Atreseries FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13544
+#EXTINF:-1,Nova ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7183
+#EXTINF:-1,Divinity HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13534
+#EXTINF:-1,Energy ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8765
+#EXTINF:-1,TV Galicia ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7218
+#EXTINF:-1,Movistar Series FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7191
+#EXTINF:-1,Movistar Series 2 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7190
+#EXTINF:-1,Movistar Accion FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16280
+#EXTINF:-1,Movistar Drama FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/685775
+#EXTINF:-1,Movistar Drama HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/685776
+#EXTINF:-1,Movistar Comedia FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7194
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7192
+#EXTINF:-1,Movistar Estrenos ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7222
+#EXTINF:-1,Movistar Estrenos 2 FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/694263
+#EXTINF:-1,Movistar Fest FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/694264
+#EXTINF:-1,TCM HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7180
+#EXTINF:-1,Paramount Channel ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8769
+#EXTINF:-1,Hollywood FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8768
+#EXTINF:-1,XTRM HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13527
+#EXTINF:-1,Sundance TV ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/14121
+#EXTINF:-1,Cosmopolitan TV FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7229
+#EXTINF:-1,Cosmopolitan TV HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13537
+#EXTINF:-1,Be Mad TV ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/683552
+#EXTINF:-1,Mega ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13824
+#EXTINF:-1,Dmax ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13535
+#EXTINF:-1,Discovery Channel ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7226
+#EXTINF:-1,National Geographic HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13528
+#EXTINF:-1,National Geographic FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16270
+#EXTINF:-1,Nat Geo Wild HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7188
+#EXTINF:-1,Historia FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7217
+#EXTINF:-1,Odisea TV HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/685777
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/16269
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7232
+#EXTINF:-1,Iberalia ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7171
+#EXTINF:-1,Dkiss HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13533
+#EXTINF:-1,Canal Cocina HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7244
+#EXTINF:-1,DeCasa ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7241
+#EXTINF:-1,Ten ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13518
+#EXTINF:-1,Taquilla 1 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7211
+#EXTINF:-1,Taquilla 1 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8756
+#EXTINF:-1,Taquilla 2 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7210
+#EXTINF:-1,Taquilla 2 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8755
+#EXTINF:-1,Taquilla 3 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7209
+#EXTINF:-1,Taquilla 3 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8754
+#EXTINF:-1,Taquilla 4 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7208
+#EXTINF:-1,Taquilla 5 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7207
+#EXTINF:-1,Taquilla 5 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7206
+#EXTINF:-1,Taquilla 6 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/7205
+#EXTINF:-1,Taquilla 7 ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://mytv.fun:8080/KayBanjo/0iaivrwwn/13520
